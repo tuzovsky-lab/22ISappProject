@@ -1,0 +1,15 @@
+C:\VSCode\22ISappProject\bin\Debug\net6.0\22ISappProject.exe
+C:\VSCode\22ISappProject\bin\Debug\net6.0\22ISappProject.deps.json
+C:\VSCode\22ISappProject\bin\Debug\net6.0\22ISappProject.runtimeconfig.json
+C:\VSCode\22ISappProject\bin\Debug\net6.0\22ISappProject.dll
+C:\VSCode\22ISappProject\bin\Debug\net6.0\22ISappProject.pdb
+C:\VSCode\22ISappProject\obj\Debug\net6.0\22ISappProject.csproj.AssemblyReference.cache
+C:\VSCode\22ISappProject\obj\Debug\net6.0\22ISappProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\VSCode\22ISappProject\obj\Debug\net6.0\22ISappProject.AssemblyInfoInputs.cache
+C:\VSCode\22ISappProject\obj\Debug\net6.0\22ISappProject.AssemblyInfo.cs
+C:\VSCode\22ISappProject\obj\Debug\net6.0\22ISappProject.csproj.CoreCompileInputs.cache
+C:\VSCode\22ISappProject\obj\Debug\net6.0\22ISappProject.dll
+C:\VSCode\22ISappProject\obj\Debug\net6.0\refint\22ISappProject.dll
+C:\VSCode\22ISappProject\obj\Debug\net6.0\22ISappProject.pdb
+C:\VSCode\22ISappProject\obj\Debug\net6.0\22ISappProject.genruntimeconfig.cache
+C:\VSCode\22ISappProject\obj\Debug\net6.0\ref\22ISappProject.dll
